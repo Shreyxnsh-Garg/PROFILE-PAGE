@@ -169,7 +169,6 @@
 .social-btn:hover {
   background: linear-gradient(135deg, #1e40af, #38bdf8);
   transform: translateX(5px);
-  box-shadow: 0 5px 20px rgba(56, 189, 248, 0.4);
 }
 
 .btn-icon {
