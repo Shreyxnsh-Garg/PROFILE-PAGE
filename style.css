@@ -51,7 +51,7 @@
   width: 150px;
   height: 150px;
   border-radius: 20px;
-  border: 4px solid white;
+  border: 2px solid white;
   object-fit: cover;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
 }
@@ -142,7 +142,6 @@
 .skill:hover {
   transform: translateY(-4px);
   background: linear-gradient(135deg, #2563eb, #38bdf8);
-  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.5);
 }
 
 .social-buttons {
